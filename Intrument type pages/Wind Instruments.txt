@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>
+Wind Instruments
+</title>
+<style>
+body{
+    background-image:url('https://images.wallpaperscraft.com/image/gameboy_anaglyph_3d_102604_1280x720.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 110%;
+}
+.dropbtn {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: 2;
+  }
+</style>
+</head>
+<body>
+    
+    <big>
+        <p style="Color:white; font-size:25; text-align:left; image-resolution:1000"><a href="home.php"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_O9EvmdMKu3CtWz5K0scG6yObxkkGp4upWe7tM55u73xWK6Fe" height=100 width=200></a>
+    <hr>
+    <div>
+        <input class="dropbtn" type="button" onclick="location.href='Form.html'" target="_blank" value="Login" style="position: absolute; right:345">
+        <input class="dropbtn" type="button" onclick="location.href='RegForm.html'" target="_blank" value="Register" style="position: absolute; right:240">
+        <input class="dropbtn" type="button" onclick="location.href='About.html'" target="_blank" value="About" style="position: absolute; right:152">
+        <input class="dropbtn" type="button" onclick="location.href='Contact.html'" target="_blank" value="Contact" style="position: absolute; right:50">
+        <!--<input class="dropbtn" type="button" onclick="" value="" style="position:Fixed;right: 100 ">-->
+
+  </div>
+  <br>
+  <br>
+  <br>
+    <hr>
+    <p>
+        A wind instrument is a musical instrument that contains some type of resonator (usually a tube) in which a column of air is set into vibration by the player blowing into (or over) a mouthpiece set at or near the end of the resonator. <br>The pitch of the vibration is determined by the length of the tube and by manual modifications of the effective length of the vibrating column of air.<br> In the case of some wind instruments, sound is produced by blowing through a reed; others require buzzing into a metal mouthpiece.<br>
+    </p>
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUPreixSvbUQfYzEonWnEyRTsxVwsbvSfrcYJI5b8ePPf-w5_6"></center>
+<p>
+    <pre>Wind instruments are typically grouped into two families:
+
+Brass instruments (horns, trumpets, trombones, euphoniums, and tubas)
+Woodwind instruments (recorders, flutes, oboes, clarinets, saxophones, and bassoons)
+Although brass instruments were originally made of brass and woodwind instruments have traditionally been made of wood, the names refer to the method by which a player produces sound rather than the material of the instrument, which may vary.
+
+In brass instruments, the player's lips vibrate, causing the air within the instrument to vibrate.
+In woodwind instruments, the player either:
+causes a reed to vibrate, which agitates the column of air (as in a clarinet, oboe or duduk)
+blows over a fipple, across an open hole against an edge (as in a recorder or ocarina), or
+blows across the edge of an open hole (as in a flute).
+For example, the saxophone is typically made of brass, but is classified as a woodwind instrument because it produces sound with a vibrating reed.
+
+On the other hand, the didgeridoo, the wooden cornett (not to be confused with the cornet, which is made of brass), and the serpent are all made of wood (or plastic tubing, in the case of modern serpents), and the olifant made from ivory, but all of them belong to the family of brass instruments because the vibrating is done by the player's lips.
+
+In the Hornbostel-Sachs scheme of musical instrument classification, wind instruments are classed as aerophones</pre>
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9WsL8XyIqrqvsdzgXc0PjM4SqJnhkOkKobgFXn1kLTuPn4Xok"></center>
+</p>
+</body>
+</html>

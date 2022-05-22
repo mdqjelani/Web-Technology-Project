@@ -1,0 +1,88 @@
+<html>
+    <head>
+        <title>Login</title>
+        <style>
+        .button {
+            background-color: white;
+            color:black;
+            text-align:center;
+            font-size:16px;
+            cursor:pointer;
+        }
+        button:hover{
+            background-color:aqua;
+            color:red;
+        }
+    </style>
+        
+    </head>
+
+<body background="https://images.wallpaperscraft.com/image/strip_line_geometry_152638_1920x1080.jpg">
+    <hr>
+    <a href="home.php"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_O9EvmdMKu3CtWz5K0scG6yObxkkGp4upWe7tM55u73xWK6Fe" height=100 width=200></a>
+    <hr>
+    <br>
+    <br>
+    <br>
+    <form action="login.php" method="POST">
+            <fieldset>
+                <legend><big>Login</big></legend>
+                <center>
+                user_id:
+                <input type="email" name="iuser_id" id="user_id" required>
+                <br>
+                <br>
+                password:
+                <input type="password" name="ipassword" id="myInput" ondbclick="validatePassword()">
+                <br>
+                <br>
+                <input type="checkbox" onclick="myFunction2()">Show password
+                <br>
+                <br>
+                
+                <input type="submit" name="submit" value="Login"  id="submit" onclick="validatePassword()">
+                    
+                <br>
+                <br>
+                <hr>
+                <a href="RegForm.html">Are you a new user? Click to register</a>
+                <br>
+                </center>
+            </fieldset>
+    </form>
+    <script>
+        function myFunction2() {
+        var x = document.getElementById("myInput");
+        if (x.type == "password") {
+        x.type = "text";
+        }
+        else 
+        {
+        x.type = "password";
+        }
+    }
+    function validatePassword() {
+        var p = document.getElementById('myInput').value,
+        errors = [];
+    if (p.length < 8) {
+        errors.push("must be at least 8 characters"); 
+    }
+    if (p.search(/[a-z]/i) < 0) {
+        errors.push("must contain at least one letter.");
+    }
+    if (p.search(/[0-9]/) < 0) {
+        errors.push("must contain at least one digit."); 
+    }
+    if (errors.length > 0) {
+        alert(errors.join("\n"));
+        return false;
+    }
+    return true;
+    }
+    
+
+    </script>
+   
+</body>
+
+</html>

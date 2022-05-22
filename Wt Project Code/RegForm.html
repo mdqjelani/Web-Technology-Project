@@ -1,0 +1,174 @@
+<html>
+
+<head>
+    <title>Registration</title>
+    <style>
+        body{
+            background-image:url('https://images.wallpaperscraft.com/image/circles_highlights_background_form_size_47438_2560x1600.jpg');
+            background-repeat:no-repeat;
+            background-attachment:fixed;
+            background-size:100% 110%;
+        }
+        .dropbtn {
+            background-color: rgb(0, 0, 0);
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: 2;
+            }
+        </style>
+</head>
+
+<body><big>
+        <p style="Color:white; font-size:25; text-align:left; image-resolution:1000"><a href="home.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_O9EvmdMKu3CtWz5K0scG6yObxkkGp4upWe7tM55u73xWK6Fe" height=100 width=200></a>
+    <hr>
+    <div>
+        <input class="dropbtn" type="button" onclick="location.href='Form.html'" target="_blank" value="Login" style="position: absolute; right:345">
+        <input class="dropbtn" type="button" onclick="location.href='RegForm.html'" target="_blank" value="Register" style="position: absolute; right:240">
+        <input class="dropbtn" type="button" onclick="location.href='About.html'" target="_blank" value="About" style="position: absolute; right:152">
+        <input class="dropbtn" type="button" onclick="location.href='Contact.html'" target="_blank" value="Contact" style="position: absolute; right:50">
+        <!--<input class="dropbtn" type="button" onclick="" value="" style="position:Fixed;right: 100 ">-->
+
+  </div>
+    <br>
+    <br>
+    <br>
+
+    <hr>
+    <form action="connect.php" method=POST>
+        <fieldset>
+            <legend><big>Registeration</big></legend>
+            <table>
+                <tr>
+                    <td>First_Name:</td>
+                    <td> <input type="text" name="First_Name" placeholder="First Name" size="30" required></td>
+                </tr>
+                <tr>
+                    <td>Last_Name:</td>
+                    <td><input type="text" name="Last_Name" placeholder="Last_Name" size="30" required></td>
+                </tr>
+                <tr>
+                    <td>Father's_Name:</td>
+                    <td> <input type="text" name="Father_Name" placeholder="Father's_Name" size="30" required></td>
+                </tr>
+                <tr>
+                <td>user_id:</td>
+                <td><input type="email" name="user_id" id="user_id" required></td>
+                </tr>
+                <tr>
+                <td>password:</td>
+                <td><input type="password" name="password" id="myInput" ondbclick="validatePassword()">
+                &nbsp;&nbsp;<input type="checkbox" onclick="myFunction2()">Show password
+                &nbsp;&nbsp;<button onclick="validatePassword()" >Check Your password</button></td>
+                </tr>
+                <tr>
+                    <td>Ph_No.:</td>
+                    <td>
+                         <select>
+                                <option>+91</option>
+                                <option>+021</option>
+                                <option>+214</option>
+                        </select>
+                    <input type="tel" name="Ph_No" placeholder="Ph_No" maxlength="10"  required>
+                    <!--pattern="[0-9]{4}-[0-9]{3}-[0-9]{3}"-->
+                    </input>
+                    </td>
+                </tr>
+                <tr>
+                        <td>Date of Birth:</td>
+                        <td><input type="date" name="date" placeholder="date of Birth" required></td>
+                </tr>
+                <tr>
+                    <td>Gender:</td>
+                    <td>Male:
+                        <input type="radio" name="gender" value="male" checked>
+                        Female:
+                        <input type="radio" name="gender" value="female">
+                        Others:
+                        <input type="radio" name="gender" value="other"></td>
+
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td><textarea rows="5" cols="50" name="Address" id="Address" placeholder="Address"></textarea> 
+                    </td>
+                </tr>
+                <tr>
+                    <td>Address Proof</td>
+                    <td>
+                        <label for="fileselect">Upload:</label> 
+                        <input type="file" name="upload" id="fileselect"> 
+                    </td>
+                </tr>
+                <br>
+                <tr>
+                    <td>
+                        Country:
+                    </td>
+                    <td>
+                        <select id="Country" name="Country" required>
+                        <option>Select from the below List</option>
+                        <option value="India">India</option>
+                        <option value="US">US</option>
+                        <option value="UK">India</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+            <br><br>
+           <center> <a href="https://www.termsfeed.com/blog/wp-content/uploads/2019/04/terms-and-conditions-template.pdf">Click here to see the terms and conditions</a><br>
+            <input type="checkbox" name="I agree all the terms and conditions" value="checkbox" required>
+            I agree all the terms and conditions.</center>
+            <center>
+                    <input type="reset" value="Reset"> 
+                    <a href="Form.html">
+                    <input type="submit" name:"submit" value="Submit" ></a>
+            </center>
+        </fieldset>
+        <br>
+        <center>
+                Rate the Form:
+                <input type="range" name="points" min="0" max="10">
+                            <input type="submit">
+        </center>
+    </form>
+        <script>
+            function myFunction2() {
+            var x = document.getElementById("myInput");
+            if (x.type == "password") {
+            x.type = "text";
+            }
+            else 
+            {
+            x.type = "password";
+            }
+        }
+         function myfunction1()
+             {
+                alert('logged in');
+             }
+    
+        function validatePassword() {
+            var p = document.getElementById('myInput').value,
+            errors = [];
+        if (p.length < 8) {
+            errors.push("must be at least 8 characters"); 
+        }
+        if (p.search(/[a-z]/i) < 0) {
+            errors.push("must contain at least one letter.");
+        }
+        if (p.search(/[0-9]/) < 0) {
+            errors.push("must contain at least one digit."); 
+        }
+        if (errors.length > 0) {
+            alert(errors.join("\n"));
+            return false;
+        }
+        return true;
+        }
+    
+        </script>
+        </big>
+</body>
+
+</html>

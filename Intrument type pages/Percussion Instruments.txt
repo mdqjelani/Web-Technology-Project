@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>
+Percussion Instruments
+</title>
+<style>
+body{
+    background-image:url('https://images.wallpaperscraft.com/image/parrot_vector_drawing_bright_color_95908_1280x720.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 110%;
+    font-size:"20px";
+}
+.dropbtn {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: 2;
+  }
+</style>
+</head>
+<body>
+    
+    <big>
+        <p style="Color:white; font-size:25; text-align:left; image-resolution:1000"><a href="home.php"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_O9EvmdMKu3CtWz5K0scG6yObxkkGp4upWe7tM55u73xWK6Fe" height=100 width=200></a>
+    <hr>
+    <div>
+        <input class="dropbtn" type="button" onclick="location.href='Form.html'" target="_blank" value="Login" style="position: absolute; right:345">
+        <input class="dropbtn" type="button" onclick="location.href='RegForm.html'" target="_blank" value="Register" style="position: absolute; right:240">
+        <input class="dropbtn" type="button" onclick="location.href='About.html'" target="_blank" value="About" style="position: absolute; right:152">
+        <input class="dropbtn" type="button" onclick="location.href='Contact.html'" target="_blank" value="Contact" style="position: absolute; right:50">
+        <!--<input class="dropbtn" type="button" onclick="" value="" style="position:Fixed;right: 100 ">-->
+
+  </div>
+  <br>
+  <br>
+  <br>
+
+    <hr>
+ <p>
+    A percussion instrument is a musical instrument that is sounded by being struck or scraped by a beater including attached or enclosed beaters or rattles struck, scraped or rubbed by hand or struck against another similar instrument. <br>The percussion family is believed to include the oldest musical instruments, following the human voice.<br>
+
+The percussion section of an orchestra most commonly contains instruments such as timpani, snare drum, bass drum, cymbals, triangle and tambourine.<br> However, the section can also contain non-percussive instruments, such as whistles and sirens, or a blown conch shell. Percussive techniques can also be applied to the human body, as in body percussion. <br>On the other hand, keyboard instruments, such as the celesta, are not normally part of the percussion section, but keyboard percussion instruments such as the glockenspiel and xylophone (which do not have piano keyboards) are included.<br>
+
+Percussion instruments are most commonly divided into two classes:<br> Pitched percussion instruments, which produce notes with an identifiable pitch, <br>and unpitched percussion instruments, which produce notes or sounds without an identifiable pitch
+ </p>
+<p>
+    <center> <img src="https://www.youredm.com/wp-content/uploads/2019/03/chainsmokers-matt-mcguire-fire-drumsticks-ultra-australia-2019-rukes.jpg"  width="1080px"></center>
+</p>
+<p>
+    Percussion is commonly referred to as "the backbone" or "the heartbeat" of a musical ensemble, often working in close collaboration with bass instruments, when present. <br>In jazz and other popular music ensembles, the pianist, bassist, drummer and sometimes the guitarist are referred to as the rhythm section.<br> Most classical pieces written for full orchestra since the time of Haydn and Mozart are orchestrated to place emphasis on the strings, woodwinds, and brass.<br> However, often at least one pair of timpani is included, though they rarely play continuously. <br>Rather, they serve to provide additional accents when needed.<br> In the 18th and 19th centuries, other percussion instruments (like the triangle or cymbals) have been used, again generally sparingly. <br>The use of percussion instruments became more frequent in the 20th century classical music.
+
+    In almost every style of music, percussion plays a pivotal role.<br> In military marching bands and pipes and drums, it is the beat of the bass drum that keeps the soldiers in step and at a regular speed, and it is the snare that provides that crisp, decisive air to the tune of a regiment.<br> In classic jazz, one almost immediately thinks of the distinctive rhythm of the hi-hats or the ride cymbal when the word-swing is spoken.<br> In more recent popular-music culture, it is almost impossible to name three or four rock, hip-hop, rap, funk or even soul charts or songs that do not have some sort of percussive beat keeping the tune in time.<br>
+    
+    Because of the diversity of percussive instruments, it is not uncommon to find large musical ensembles composed entirely of percussion. <br>Rhythm, melody, and harmony are all represented in these ensembles.
+</p>
+<p>
+    <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20070727-beleuvenissen-gocoo-11.jpg/1280px-20070727-beleuvenissen-gocoo-11.jpg"></center>
+</p>
+</body>
+</html>

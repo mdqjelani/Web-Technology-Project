@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>
+Stringed Instruments
+</title>
+<style>
+body{
+    background-image:url('https://images.wallpaperscraft.com/image/guitar_close-up_house_80963_1280x720.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 110%;
+    font-size: 20px;
+}
+.dropbtn {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: 2;
+  }
+</style>
+</head>
+<body>
+    
+    <big>
+        <p style="Color:white; font-size:25; text-align:left; image-resolution:1000"><a href="home.php"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_O9EvmdMKu3CtWz5K0scG6yObxkkGp4upWe7tM55u73xWK6Fe" height=100 width=200></a>
+    <hr>
+    <div>
+        <input class="dropbtn" type="button" onclick="location.href='Form.html'" target="_blank" value="Login" style="position: absolute; right:345">
+        <input class="dropbtn" type="button" onclick="location.href='RegForm.html'" target="_blank" value="Register" style="position: absolute; right:240">
+        <input class="dropbtn" type="button" onclick="location.href='About.html'" target="_blank" value="About" style="position: absolute; right:152">
+        <input class="dropbtn" type="button" onclick="location.href='Contact.html'" target="_blank" value="Contact" style="position: absolute; right:50">
+        <!--<input class="dropbtn" type="button" onclick="" value="" style="position:Fixed;right: 100 ">-->
+
+  </div>
+  <br>
+  <br>
+    <hr>
+    <center><img src="https://www.orsymphony.org/globalassets/hero-images/instruments-of-the-orchestra/strings_pc-leah-nash_1900x600.jpg" width="1080px"></center>
+<p>
+    String instruments, stringed instruments, or chordophones are musical instruments that produce sound from vibrating strings when the performer plays or sounds the strings in some manner.
+
+Musicians play some string instruments by plucking the strings with their fingers or a plectrum—and others by hitting the strings with a light wooden hammer or by rubbing the strings with a bow. <br>In some keyboard instruments, such as the harpsichord, the musician presses a key that plucks the string.
+
+With bowed instruments, the player pulls a rosined horsehair bow across the strings, causing them to vibrate. With a hurdy-gurdy, the musician cranks a wheel whose rosined edge touches the strings.<br>
+
+Bowed instruments include the string section instruments of the Classical music orchestra (violin, viola, cello and double bass) and a number of other instruments (e.g., viols and gambas used in early music from the Baroque music era and fiddles used in many types of folk music). <br>All of the bowed string instruments can also be plucked with the fingers, a technique called "pizzicato".<br> A wide variety of techniques are used to sound notes on the electric guitar, including plucking with the fingernails or a plectrum, strumming and even "tapping" on the fingerboard and using feedback from a loud, distorted guitar amplifier to produce a sustained sound.<br> Some types of string instrument are mainly plucked, such as the harp and the electric bass. In the Hornbostel-Sachs scheme of musical instrument classification, used in organology, string instruments are called chordophones. Other examples include the sitar, rebab, banjo, mandolin, ukulele, and bouzouki.
+
+In most string instruments, the vibrations are transmitted to the body of the instrument, which often incorporates some sort of hollow or enclosed area. <br>The body of the instrument also vibrates, along with the air inside it. <br>The vibration of the body of the instrument and the enclosed hollow or chamber make the vibration of the string more audible to the performer and audience. <br>The body of most string instruments is hollow. Some, however—such as electric guitar and other instruments that rely on electronic amplification—may have a solid wood body.
+</p>
+<p align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwZlG5njIcKy-ZxWVB70fNuFznFr_gE1liwZWR7zkdL4_Xsudf">
+</p>
+<p>
+    String instruments can be divided in three groups<br>
+
+<b><u>Lutes</u></b> <br>
+Instruments that support the strings via a neck and a bout ("gourd"), for instance a guitar, a violin, or a saz<br>
+<b><u>Harps </u></b><br>
+Instruments that contain the strings within a frame<br>
+<b><u>Zithers</u></b><br>
+Instruments that have the strings mounted on a body, frame or tube, such as a guqin, a cimbalom, an autoharp, harpsichord, a piano, or a valiha<br>
+It is also possible to divide the instruments into categories focused on how the instrument is played.<br>
+
+<b><u>Playing techniques</u></b><br>
+Further information: List of string instruments<br>
+
+An acoustic guitar being strummed.<br>
+All string instruments produce sound from one or more vibrating strings, transferred to the air by the body of the instrument (or by a pickup in the case of electronically amplified instruments).<br> They are usually categorised by the technique used to make the strings vibrate (or by the primary technique, in the case of instruments where more than one may apply).<br> The three most common techniques are plucking, bowing, and striking.<br> An important difference between bowing and plucking is that in the former the phenomenon is periodic so that the overtones are kept in a strictly harmonic relationship to the fundamental.<br>
+
+<b><u>Plucking</u></b><br>
+Main article: Plucked string instrument<br>
+Plucking is a method of playing on instruments such as the veena, banjo, ukulele, guitar, harp, lute, mandolin, oud, and sitar, using either a finger, thumb, or quills (now plastic plectra) to pluck the strings.<br>
+
+Instruments normally played by bowing (see below) may also be plucked, a technique referred to by the Italian term pizzicato.<br>
+
+<b><u>Bowing</u></b><br>
+Main article: Bowed string instrument<br>
+Bowing (Italian: arco) is a method used in some string instruments, including the violin, viola, cello, and the double bass (of the violin family), and the old viol family. <br>The bow consists of a stick with a "ribbon" of parallel horse tail hairs stretched between its ends. The hair is coated with rosin so it can grip the string; moving the hair across a string causes a stick-slip phenomenon, making the string vibrate, and prompting the instrument to emit sound.<br> Darker grades of rosin grip well in cool, dry climates, but may be too sticky in warmer, more humid weather.<br> Violin and viola players generally use harder, lighter-colored rosin than players of lower-pitched instruments, who tend to favor darker, softer rosin.<br>
+
+The ravanahatha is one of the oldest string instruments. <br>Ancestors of the modern bowed string instruments are the rebab of the Islamic Empires, the Persian kamanche and the Byzantine lira.<br> Other bowed instruments are the rebec, hardingfele, nyckelharpa, kokyū, erhu, igil, sarangi and K'ni.<br> The hurdy-gurdy is bowed by a wheel. Rarely, the guitar has been played with a bow (rather than plucked) for unique effects.<br>
+
+<b><u>Striking</u></b><br>
+The third common method of sound production in stringed instruments is to strike the string. <br>The piano and hammered dulcimer use this method of sound production.<br> Even though the piano strikes the strings, the use of felt hammers means that the sound that is produced can nevertheless be mellow and rounded, in contrast to the sharp attack produced when a very hard hammer strikes the strings.<br>
+
+Violin family string instrument players are occasionally instructed to strike the string with the stick of the bow, a technique called col legno.<br> This yields a percussive sound along with the pitch of the note.<br> A well-known use of col legno for orchestral strings is Gustav Holst's "Mars" movement from The Planets suite.<br>
+
+<b><u></u></b>Other methods
+The aeolian harp employs a very unusual method of sound production: the strings are excited by the movement of the air.<br>
+
+Some instruments that have strings have an attached keyboard that the player presses keys on to trigger a mechanism that sounds the strings, instead of directly manipulating the strings. <br>These include the piano, the clavichord, and the harpsichord. With these keyboard instruments, strings are occasionally plucked or bowed by hand. <br>Modern composers such as Henry Cowell wrote music that requires that the player reach inside the piano and pluck the strings directly, "bow" them with bow hair wrapped around the strings, or play them by rolling the bell of a brass instrument such as a trombone on the array of strings.<br> However, these are relatively rarely used special techniques.
+
+<b>Other keyed string instruments</b>, small enough for a strolling musician to play, include the plucked autoharp, the bowed nyckelharpa, and the hurdy-gurdy, which is played by cranking a rosined wheel.<br>
+<b>Steel-stringed instruments</b>(such as the guitar, bass, violin, etc.) can be played using a magnetic field. <br>An E-Bow is a small hand-held battery-powered device that magnetically excites the strings of an electric string instrument to provide a sustained, singing tone reminiscent of a held bowed violin note.
+
+Third bridge is a plucking method where the player frets a string and strikes the side opposite the bridge. <br>The technique is mainly used on electric instruments because these have a pickup that amplifies only the local string vibration. <br>It is possible on acoustic instruments as well, but less effective.<br> For instance, a player might press on the seventh fret on a guitar and pluck it at the head side to make a tone resonate at the opposed side.<br> On electric instruments, this technique generates multitone sounds reminiscent of a clock or bell.<br>
+
+<b>Electric string instruments</b>, such as the electric guitar, can also be played without touching the strings by using audio feedback. <br>When an electric guitar is plugged into a loud, powerful guitar amplifier with a loudspeaker and a high level of distortion is intentionally used, the guitar produces sustained high-pitched sounds.<br> By changing the proximity of the guitar to the speaker, the guitarist can produce sounds that cannot be produced with standard plucking and picking techniques. This technique was popularized by Jimi Hendrix and others in the 1960s. It was widely used in psychedelic rock and heavy metal music.<br>
+</p>
+<p align="center"><img src="https://en.pimg.jp/016/827/750/1/16827750.jpg"></p>
+
+</body>
+</html>
